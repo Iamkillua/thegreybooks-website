@@ -1,0 +1,30 @@
+/* css reset */
+
+{
+    margin: 0px;
+    padding: 0 px;
+}
+
+
+/* logo*/
+
+#logo img {
+    shape-outside: circle();
+    margin-left: 850px;
+    margin-right: 0px;
+    float: left;
+    height: 150px;
+    width: 120 px;
+    margin: 5px 10px;
+}
+
+#background img {
+    opacity: 0.1;
+}
+
+
+/*list */
+
+#forgotlink {
+    color: aqua;
+}
